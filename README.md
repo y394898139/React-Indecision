@@ -13,3 +13,14 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+#### Screenshots of the pages
+
+#### Indecision Page
+![alt text](screenshots/Screenshot01.png "")
+
+#### Indecision Page With Some Options
+![alt text](screenshots/Screenshot02.png "")
+
+#### Pick a random option from the options
+![alt text](screenshots/Screenshot03.png "")
