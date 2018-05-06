@@ -24,3 +24,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 #### Pick a random option from the options
 ![alt text](screenshots/Screenshot03.png "")
+
+#### Page on a mobile device （responsive）
+![alt text](screenshots/Screenshot04.png "")
+
