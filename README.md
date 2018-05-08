@@ -14,6 +14,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+#### Or you can go to my heroku page
+Link:https://frozen-journey-47625.herokuapp.com/
+
 #### Screenshots of the pages
 
 #### Indecision Page
